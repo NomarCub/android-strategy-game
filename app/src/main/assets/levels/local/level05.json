@@ -1,0 +1,184 @@
+{
+  "_bases": [
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 30,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Pityu",
+        "type": "LOCAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.3,
+        "y": 0.4
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 10,
+      "realHitPoints": 30,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Pityu",
+        "type": "LOCAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.5,
+        "y": 0.9
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 10,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.7,
+        "y": 0.6
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 20,
+      "realHitPoints": 15,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.4,
+        "y": 0.7
+      },
+      "radius": 0.0947498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 10,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.2,
+        "y": 0.7
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 5,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.2,
+        "y": 0.9
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 20,
+      "realOwner": {
+        "color": -16776961,
+        "name": "Terminator",
+        "type": "MACHINE"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.8,
+        "y": 0.4
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 20,
+      "realOwner": {
+        "color": -16776961,
+        "name": "Terminator",
+        "type": "MACHINE"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.7,
+        "y": 0.2
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 20,
+      "realOwner": {
+        "color": -16776961,
+        "name": "Terminator",
+        "type": "MACHINE"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.1,
+        "y": 0.1
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 20,
+      "realOwner": {
+        "color": -1677961,
+        "name": "Mikrobi",
+        "type": "MACHINE"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.9,
+        "y": 0.6
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 20,
+      "realOwner": {
+        "color": -1677961,
+        "name": "Mikrobi",
+        "type": "MACHINE"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.9,
+        "y": 0.8
+      },
+      "radius": 0.0847498
+    }
+  ],
+  "_packets": [],
+  "hasLost": 0,
+  "hasWon": 0,
+  "machineControllers": []
+}

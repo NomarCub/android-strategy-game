@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "565545148142",
+    "firebase_url": "https://teenywar.firebaseio.com",
+    "project_id": "teenywar",
+    "storage_bucket": "teenywar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565545148142:android:a0c4577dfcaeadb4",
+        "android_client_info": {
+          "package_name": "hu.nomarcub.teenywar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565545148142-enm40bvrvus9l7im0fgvlgcl7pfp2l0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.nomarcub.teenywar",
+            "certificate_hash": "561b57f2356967f8fed6bf8427cb27044aebd25c"
+          }
+        },
+        {
+          "client_id": "565545148142-08kmlkqj4qiojpsj0vi5td36e73ancm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM4N_PsWNT7Nd07ciab9bxbtwEOTnshLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565545148142-08kmlkqj4qiojpsj0vi5td36e73ancm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

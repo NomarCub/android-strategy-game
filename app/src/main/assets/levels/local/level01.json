@@ -1,0 +1,59 @@
+{
+  "_bases": [
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 20,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Pityu",
+        "type": "LOCAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.2,
+        "y": 0.3
+      },
+      "hitPoints": 20,
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 20,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Pityu",
+        "type": "LOCAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.2,
+        "y": 0.7
+      },
+      "hitPoints": 20,
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 10,
+      "realOwner": {
+        "color": -16776961,
+        "name": "Terminator",
+        "type": "MACHINE"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.6,
+        "y": 0.5
+      },
+      "hitPoints": 20,
+      "radius": 0.0847498
+    }
+  ],
+  "_packets": [],
+  "hasLost": 0,
+  "hasWon": 0,
+  "machineControllers": []
+}

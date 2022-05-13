@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TeenyWar</string>
+    <string name="settings">Settings</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="title_activity_levels">Levels</string>
+    <string name="local_play">Local play</string>
+    <string name="machine_difficulty">Machine difficulty</string>
+    <string name="volume">Volume</string>
+    <string name="random">Random</string>
+    <string name="normal">Normal</string>
+    <string name="aggressive">Aggressive</string>
+    <string name="color">Color</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="colorDisplayerText" translatable="false">100</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="connected">Connected</string>
+    <string name="levels_dont_match">Levels don\'t match</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="refresh">Refresh</string>
+    <string name="machine">Machine</string>
+    <string name="player">Player</string>
+    <string name="neutral">Neutral</string>
+    <string name="you_lost">You lost!</string>
+    <string name="you_won">You won!</string>
+    <string name="won">Won</string>
+    <string name="lost">Lost</string>
+</resources>

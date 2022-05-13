@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TODO: update-->
+    <string name="app_name">TeenyWar</string>
+    <string name="settings">Beállítások</string>
+    <string name="pause">Megállítás</string>
+    <string name="resume">Folytatás</string>
+    <string name="title_activity_levels">Pályák</string>
+    <string name="local_play">Helyi játék</string>
+    <string name="volume">Hangerő</string>
+    <string name="random">Véletlenszerű</string>
+    <string name="normal">Normál</string>
+    <string name="aggressive">Agresszív</string>
+    <string name="machine_difficulty">Gép nehézség</string>
+    <string name="color">Szín</string>
+    <string name="red">Piros</string>
+    <string name="green">Zöld</string>
+    <string name="blue">Kék</string>
+    <string name="multiplayer">Többjátékos</string>
+    <string name="connected">Csatlakozva</string>
+    <string name="levels_dont_match">Nem egyező pályák</string>
+    <string name="disconnected">Kapcsolat megszakadt</string>
+    <string name="refresh">Frissítés</string>
+    <string name="machine">Gép</string>
+    <string name="player">Játékos</string>
+    <string name="neutral">Semleges</string>
+    <string name="you_lost">Vesztettél!</string>
+    <string name="you_won">Nyertél!</string>
+    <string name="won">Győzelem</string>
+    <string name="lost">Vereség</string>
+</resources>

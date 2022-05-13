@@ -1,0 +1,248 @@
+{
+  "_bases": [
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 20,
+      "realOwner": {
+        "color": -420753,
+        "name": "Pityu",
+        "type": "REMOTE"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.9,
+        "y": 0.75
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 20,
+      "realOwner": {
+        "color": -420753,
+        "name": "Pityu",
+        "type": "REMOTE"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.75,
+        "y": 0.9
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 20,
+      "realOwner": {
+        "color": -20753,
+        "name": "Laci",
+        "type": "REMOTE"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.1,
+        "y": 0.25
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 30,
+      "realHitPoints": 20,
+      "realOwner": {
+        "color": -20753,
+        "name": "Laci",
+        "type": "REMOTE"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.25,
+        "y": 0.1
+      },
+      "radius": 0.0847498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 40,
+      "realHitPoints": 10,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.75,
+        "y": 0.6
+      },
+      "radius": 0.0747498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 40,
+      "realHitPoints": 10,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.65,
+        "y": 0.75
+      },
+      "radius": 0.0747498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 40,
+      "realHitPoints": 10,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.25,
+        "y": 0.4
+      },
+      "radius": 0.0747498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 40,
+      "realHitPoints": 10,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.35,
+        "y": 0.25
+      },
+      "radius": 0.0747498
+    },
+    {
+      "capacity": 200,
+      "growCounter": 15,
+      "realHitPoints": 150,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "radius": 0.1547498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 25,
+      "realHitPoints": 50,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.45,
+        "y": 0.1
+      },
+      "radius": 0.0747498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 25,
+      "realHitPoints": 30,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 50,
+      "center": {
+        "x": 0.55,
+        "y": 0.9
+      },
+      "radius": 0.0747498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 35,
+      "realHitPoints": 30,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.62,
+        "y": 0.3
+      },
+      "radius": 0.0647498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 35,
+      "realHitPoints": 30,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.38,
+        "y": 0.7
+      },
+      "radius": 0.0647498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 35,
+      "realHitPoints": 30,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.75,
+        "y": 0.25
+      },
+      "radius": 0.0647498
+    },
+    {
+      "capacity": 60,
+      "growCounter": 35,
+      "realHitPoints": 30,
+      "realOwner": {
+        "color": -4210753,
+        "name": "Neutral",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.25,
+        "y": 0.75
+      },
+      "radius": 0.0647498
+    }
+  ],
+  "_packets": [],
+  "hasLost": 0,
+  "hasWon": 0,
+  "machineControllers": []
+}

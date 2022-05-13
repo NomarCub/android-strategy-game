@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              android:padding="5dp">
+
+    <include layout="@layout/textview_unit"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:orientation="horizontal"
+            android:weightSum="6">
+
+        <TextView
+                android:id="@+id/tvAgents"
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:gravity="end"
+                android:layout_marginEnd="10sp"/>
+
+        <TextView
+                android:id="@+id/tvStats"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:gravity="bottom"
+                android:textSize="14sp"/>
+
+        <TextView
+                android:id="@+id/tvKD"
+                android:layout_width="0dp"
+                android:layout_weight="3"
+                android:layout_height="wrap_content"
+                android:gravity="bottom"
+                android:textSize="14sp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

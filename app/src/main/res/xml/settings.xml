@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SeekBarPreference
+            android:title="@string/volume"
+            android:key="volume"
+            android:defaultValue="100"
+            android:max="100"/>
+
+    <ListPreference
+            android:key="machine"
+            android:title="@string/machine_difficulty"
+            android:entries="@array/AI"
+            android:entryValues="@array/AIData"/>
+
+    <!--TODO colored bars-->
+    <PreferenceCategory
+            android:title="@string/color">
+
+        <SeekBarPreference
+                android:title="@string/red"
+                android:key="red"
+                android:defaultValue="244"
+                android:max="255"/>
+
+        <SeekBarPreference
+                android:title="@string/green"
+                android:key="green"
+                android:defaultValue="75"
+                android:max="255"/>
+
+        <SeekBarPreference
+                android:title="@string/blue"
+                android:key="blue"
+                android:defaultValue="63"
+                android:max="255"/>
+
+    </PreferenceCategory>
+
+    <!--<SwitchPreference-->
+    <!--android:title="Enable service"-->
+    <!--android:key="key_enable_service"-->
+    <!--android:summaryOff="off"-->
+    <!--android:summaryOn="on"/>-->
+
+    <!--<EditTextPreference-->
+    <!--android:title="Enter data here"-->
+    <!--android:key="key_data"/>-->
+
+    <!--<CheckBoxPreference-->
+    <!--android:defaultValue="false"-->
+    <!--android:key="key_autologin"-->
+    <!--android:title="Auto login"/>-->
+
+</PreferenceScreen>

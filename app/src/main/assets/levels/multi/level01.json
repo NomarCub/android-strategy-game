@@ -1,0 +1,115 @@
+{
+  "_bases": [
+    {
+      "capacity": 10000,
+      "growCounter": 30,
+      "realHitPoints": 200,
+      "realOwner": {
+        "color": -65536,
+        "name": "Pityu",
+        "type": "REMOTE"
+      },
+      "stepTillGrow": 4,
+      "center": {
+        "x": 0.2,
+        "y": 0.2
+      },
+      "hitPoints": 200,
+      "owner": {
+        "color": -65536,
+        "name": "Pityu",
+        "type": "REMOTE"
+      },
+      "radius": 0.09311496
+    },
+    {
+      "capacity": 22200,
+      "growCounter": 30,
+      "realHitPoints": 200,
+      "realOwner": {
+        "color": -16776961,
+        "name": "Laci",
+        "type": "REMOTE"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.4,
+        "y": 0.4
+      },
+      "hitPoints": 2000,
+      "owner": {
+        "color": -16776961,
+        "name": "Laci",
+        "type": "REMOTE"
+      },
+      "radius": 0.09365984
+    },
+    {
+      "capacity": 22200,
+      "growCounter": 30,
+      "realHitPoints": 200,
+      "realOwner": {
+        "color": -4210753,
+        "name": "NEUTRAL",
+        "type": "NEUTRAL"
+      },
+      "stepTillGrow": 30,
+      "center": {
+        "x": 0.6,
+        "y": 0.6
+      },
+      "hitPoints": 200,
+      "owner": {
+        "color": -4210753,
+        "name": "NEUTRAL",
+        "type": "NEUTRAL"
+      },
+      "radius": 0.09365984
+    },
+    {
+      "capacity": 22200,
+      "growCounter": 30,
+      "realHitPoints": 200,
+      "realOwner": {
+        "color": -65536,
+        "name": "Pityu",
+        "type": "REMOTE"
+      },
+      "stepTillGrow": 2,
+      "center": {
+        "x": 0.4,
+        "y": 0.6
+      },
+      "hitPoints": 200,
+      "owner": {
+        "color": -65536,
+        "name": "Pityu",
+        "type": "REMOTE"
+      },
+      "radius": 0.09365984
+    },
+    {
+      "capacity": 22200,
+      "growCounter": 30,
+      "realHitPoints": 200,
+      "realOwner": {
+        "color": -16776961,
+        "name": "Laci",
+        "type": "REMOTE"
+      },
+      "stepTillGrow": 2,
+      "center": {
+        "x": 0.6,
+        "y": 0.4
+      },
+      "hitPoints": 200,
+      "owner": {
+        "color": -16776961,
+        "name": "Laci",
+        "type": "REMOTE"
+      },
+      "radius": 0.09365984
+    }
+  ],
+  "machineControllers": []
+}
